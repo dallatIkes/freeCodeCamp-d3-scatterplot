@@ -88,8 +88,8 @@ async function main() {
     legend.append('rect')
         .attr('x', 10)
         .attr('y', 11)
-        .attr('width', 8)
-        .attr('height', 8)
+        .attr('width', 10)
+        .attr('height', 10)
         .attr('fill', '#3cb371');
 
     legend.append('text')
@@ -100,8 +100,8 @@ async function main() {
     legend.append('rect')
         .attr('x', 10)
         .attr('y', 41)
-        .attr('width', 8)
-        .attr('height', 8)
+        .attr('width', 10)
+        .attr('height', 10)
         .attr('fill', '#e63946');
 
     legend.append('text')
